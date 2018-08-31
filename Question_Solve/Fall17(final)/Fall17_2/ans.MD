@@ -1,4 +1,4 @@
-##We need to use Relay.
+## We need to use Relay.
 
 - Solution could be like below-
 1. Add 14 different devices in a multiplug.
